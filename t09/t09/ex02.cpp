@@ -3,12 +3,14 @@
 
 int main() {
 	float weight, height;
-	printf("몸무게와 키를 입력하세요.: ");
-	scanf("%f,%f", &weight, &height);
-	printf("%f,%f", weight, height);
+	printf("몸무게를 입력하세요.: ");
+	scanf("%f", &weight);
+	printf("키를 입력하세요.:");
+	scanf("%f", &height);
+	
 	//체질량:몸무게 / (신장*신장)
 	float bmi = weight / (height*height);
 	
-	printf("당신의 체질량 지수는 %f 입니다.", bmi);
+	printf("BMI: %f.", bmi); 
 	
 }
