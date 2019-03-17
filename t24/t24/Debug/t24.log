@@ -1,6 +1,9 @@
 ﻿  ex04.cpp
 c:\users\jeong\desktop\dodlenak\t24\t24\ex04.cpp(15): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
-c:\users\jeong\desktop\dodlenak\t24\t24\ex04.cpp(16): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
-c:\users\jeong\desktop\dodlenak\t24\t24\ex04.cpp(17): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
-c:\users\jeong\desktop\dodlenak\t24\t24\ex04.cpp(18): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+c:\users\jeong\desktop\dodlenak\t24\t24\ex04.cpp(17): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\jeong\desktop\dodlenak\t24\t24\ex04.cpp(18): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\jeong\desktop\dodlenak\t24\t24\ex04.cpp(19): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+c:\users\jeong\desktop\dodlenak\t24\t24\ex04.cpp(20): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+c:\users\jeong\desktop\dodlenak\t24\t24\ex04.cpp(21): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\jeong\desktop\dodlenak\t24\t24\ex04.cpp(22): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int ***'입니다.
   t24.vcxproj -> C:\Users\Jeong\Desktop\dodlenak\t24\Debug\t24.exe
