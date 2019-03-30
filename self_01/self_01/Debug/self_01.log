@@ -1,0 +1,3 @@
+﻿  ex01.cpp
+c:\users\jeong\desktop\dodlenak\self_01\self_01\ex01.cpp(7): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  self_01.vcxproj -> C:\Users\Jeong\Desktop\dodlenak\self_01\Debug\self_01.exe
